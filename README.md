@@ -3,4 +3,4 @@
 ## Attendees
 
 - Sushobhana Patra (3rd year, CSE)
--Prabhat
+- Prabhat Sharma (2nd year, CSE)
