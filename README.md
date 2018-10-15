@@ -4,3 +4,4 @@
 
 - Sushobhana Patra (3rd year, CSE)
 - Gyanesh Gupta
+- Tushar Singal (3rd year, CSE)
